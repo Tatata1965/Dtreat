@@ -13,4 +13,4 @@ except ZeroDivisionError as er:
         print('введите число повторно')
 
 except ValueError:
-    print('были введены буквы')
+    print('были введены буквыee')
